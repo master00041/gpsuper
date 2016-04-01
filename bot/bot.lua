@@ -244,7 +244,8 @@ function create_config( )
       "version",
       "italian_lang",
       "portuguese_lang",
-      "arabic"
+      "arabic",
+      "addplug"
      },
     sudo_users = {104583328},
     admin_users = {},
